@@ -15,7 +15,7 @@
 - Ninguna, aún...
 
 ### 🌐 Encuentrame en la web:
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/leonardo-azael-hern%C3%A1ndez-flores-50896a2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ¡Siempre estoy abierto a colaboraciones emocionantes y oportunidades para seguir aprendiendo y creciendo en este apasionante mundo del desarrollo!
 
