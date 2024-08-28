@@ -1,12 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floreesleo&layout=compact&theme=dark)
-
-### 🌐 Encuentrame en la web:
-- [LinkedIn](https://www.linkedin.com/in/leonardo-azael-hern%C3%A1ndez-flores-50896a2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-¡Siempre estoy abierto a colaboraciones emocionantes y oportunidades para seguir aprendiendo y creciendo en este apasionante mundo del desarrollo!
-
-¡Conectemos y hagamos cosas increibles juntos! ✨
-
 <h1 align="center">Hi 👋! My name is Leo and I'm a web developer from México</h1>
 
 ###
@@ -54,24 +45,14 @@
   <a href="www.linkedin.com/in/flores-leonardo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="florees.leo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ecf0f1&logoColor=&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/_floreesleo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e74c3c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/floreesleo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="_floreesleo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/floreesleo/floreesleo/output/snake.svg" alt="Snake animation" />
-
-###
