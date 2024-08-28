@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋! My name is Leo and I'm a web developer from México</h1>
+<h1 align="left">Hi there 👋! My name is Leo and I'm a web developer from México</h1>
 
 ###
 
-¡Hola! Soy Leo, un joven apacionado por la programación, el diseño y la tecnología. Actualmente, me encuentro explorando el vasto mundo del desarrollo de software y aprendiendo nuevas habilidades cada día.
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br clear="both">
+<hr/>
+
+<img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmd3B4ZXd6ODcyYzVncmRrNXBoOGtlbHYwbHYyMWc5dXR0aDZ0ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aQoSeR4YdVcn8shJds/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=floreesleo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floreesleo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <div align="left">
+      Hi there! I'm Leo, a junior web developer with a knack for creating intuitive and user-friendly web applications. I specialize in front-end development, and I'm always eager to learn and experiment with new technologies. My current focus is on mastering React Native and building personal projects that blend creativity with functionality.
+When I'm not coding, you can find me drawing, listening to music, or diving into the latest video games. I'm on a journey to become a software developer in the U.S., and I'm excited to contribute to innovative projects and collaborate with like-minded developers.
+  </div>
 </div>
 
 ###
 
-<img align="left" height="125" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmd3B4ZXd6ODcyYzVncmRrNXBoOGtlbHYwbHYyMWc5dXR0aDZ0ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aQoSeR4YdVcn8shJds/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="right">
+  <h3>My Skills & Technologies</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -37,22 +41,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/flores-leonardo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_floreesleo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e74c3c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/floreesleo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-</div>
-
-###
+</div> 
 
 <br clear="both">
+<hr/>
+
+<div align="left">
+  <h3>My Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=floreesleo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="158" alt="stats graph" /> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floreesleo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="155" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
